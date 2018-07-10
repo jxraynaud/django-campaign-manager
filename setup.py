@@ -12,7 +12,7 @@ setup(
     long_description=README,
     author='Jean-Xavier Raynaud',
     author_email='jx@pixelforest.com',
-    url='https://github.com/yourname/django-myapp/',
+    url='https://github.com/jxraynaud/django-campaign-manager',
     license='MIT',
     install_requires=[
         'Django>=2.0',
